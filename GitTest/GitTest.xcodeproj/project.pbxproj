@@ -13,6 +13,7 @@
 		DC72646F21AEDEAC00B275B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC72646E21AEDEAC00B275B4 /* Assets.xcassets */; };
 		DC72647221AEDEAC00B275B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC72647021AEDEAC00B275B4 /* LaunchScreen.storyboard */; };
 		DC72647521AEDEAC00B275B4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DC72647421AEDEAC00B275B4 /* main.m */; };
+		DC72647D21AEDF6C00B275B4 /* Test1.m in Sources */ = {isa = PBXBuildFile; fileRef = DC72647C21AEDF6C00B275B4 /* Test1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		DC72647121AEDEAC00B275B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC72647321AEDEAC00B275B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC72647421AEDEAC00B275B4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DC72647B21AEDF6C00B275B4 /* Test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test1.h; sourceTree = "<group>"; };
+		DC72647C21AEDF6C00B275B4 /* Test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				DC72647021AEDEAC00B275B4 /* LaunchScreen.storyboard */,
 				DC72647321AEDEAC00B275B4 /* Info.plist */,
 				DC72647421AEDEAC00B275B4 /* main.m */,
+				DC72647B21AEDF6C00B275B4 /* Test1.h */,
+				DC72647C21AEDF6C00B275B4 /* Test1.m */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -144,6 +149,7 @@
 				DC72646A21AEDEA900B275B4 /* ViewController.m in Sources */,
 				DC72647521AEDEAC00B275B4 /* main.m in Sources */,
 				DC72646721AEDEA900B275B4 /* AppDelegate.m in Sources */,
+				DC72647D21AEDF6C00B275B4 /* Test1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
