@@ -7,22 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DC20704621AF81DA00D005EF /* TestView.m in Sources */ = {isa = PBXBuildFile; fileRef = DC20704521AF81DA00D005EF /* TestView.m */; };
-		DC20704F21AF83DC00D005EF /* UIView3.m in Sources */ = {isa = PBXBuildFile; fileRef = DC20704E21AF83DC00D005EF /* UIView3.m */; };
 		DC72646721AEDEA900B275B4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DC72646621AEDEA900B275B4 /* AppDelegate.m */; };
 		DC72646A21AEDEA900B275B4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DC72646921AEDEA900B275B4 /* ViewController.m */; };
 		DC72646D21AEDEA900B275B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC72646B21AEDEA900B275B4 /* Main.storyboard */; };
 		DC72646F21AEDEAC00B275B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC72646E21AEDEAC00B275B4 /* Assets.xcassets */; };
 		DC72647221AEDEAC00B275B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC72647021AEDEAC00B275B4 /* LaunchScreen.storyboard */; };
 		DC72647521AEDEAC00B275B4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DC72647421AEDEAC00B275B4 /* main.m */; };
-		DC72647D21AEDF6C00B275B4 /* Test1.m in Sources */ = {isa = PBXBuildFile; fileRef = DC72647C21AEDF6C00B275B4 /* Test1.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DC20704421AF81DA00D005EF /* TestView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestView.h; sourceTree = "<group>"; };
-		DC20704521AF81DA00D005EF /* TestView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestView.m; sourceTree = "<group>"; };
-		DC20704D21AF83DC00D005EF /* UIView3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UIView3.h; sourceTree = "<group>"; };
-		DC20704E21AF83DC00D005EF /* UIView3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIView3.m; sourceTree = "<group>"; };
 		DC72646221AEDEA900B275B4 /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC72646521AEDEA900B275B4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		DC72646621AEDEA900B275B4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -33,8 +26,6 @@
 		DC72647121AEDEAC00B275B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC72647321AEDEAC00B275B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC72647421AEDEAC00B275B4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DC72647B21AEDF6C00B275B4 /* Test1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Test1.h; sourceTree = "<group>"; };
-		DC72647C21AEDF6C00B275B4 /* Test1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test1.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,12 +67,6 @@
 				DC72647021AEDEAC00B275B4 /* LaunchScreen.storyboard */,
 				DC72647321AEDEAC00B275B4 /* Info.plist */,
 				DC72647421AEDEAC00B275B4 /* main.m */,
-				DC72647B21AEDF6C00B275B4 /* Test1.h */,
-				DC72647C21AEDF6C00B275B4 /* Test1.m */,
-				DC20704421AF81DA00D005EF /* TestView.h */,
-				DC20704521AF81DA00D005EF /* TestView.m */,
-				DC20704D21AF83DC00D005EF /* UIView3.h */,
-				DC20704E21AF83DC00D005EF /* UIView3.m */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -158,10 +143,7 @@
 			files = (
 				DC72646A21AEDEA900B275B4 /* ViewController.m in Sources */,
 				DC72647521AEDEAC00B275B4 /* main.m in Sources */,
-				DC20704F21AF83DC00D005EF /* UIView3.m in Sources */,
-				DC20704621AF81DA00D005EF /* TestView.m in Sources */,
 				DC72646721AEDEA900B275B4 /* AppDelegate.m in Sources */,
-				DC72647D21AEDF6C00B275B4 /* Test1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
